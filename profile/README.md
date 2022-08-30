@@ -1,4 +1,4 @@
-<img src="../images/logo.svg?raw=true" height="60"/> <br>
+<img src="../main/images/logo.svg?raw=true" height="60"/> <br>
 
 # Hi there! We are Efaestus Software
 
